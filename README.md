@@ -1,10 +1,6 @@
 ### Hi there, I'm Sankalpa from Colombo, Sri Lanka 👋
 
-<!--
-**Sankalpa1997/Sankalpa1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 
 - 🎓 Software Engineering alumnus at [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx). Passionate about mobile application development ...
 - 🔭 I’m currently developing a couple of Flutter mobile apps to launch soon ...
@@ -16,14 +12,27 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Sankalpa1997" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sankalpa1997 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sankalpa1997 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sankalpa1997 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
-<br/>
+<br />
 
 ### Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 [twitter]: https://twitter.com/SankalpaS97
 [linkedin]: https://linkedin.com/in/sankalpasenevirathne
