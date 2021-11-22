@@ -8,16 +8,17 @@ Here are some ideas to get you started:
 
 - 🎓 Software Engineering alumnus at [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx). Passionate about mobile application development ...
 - 🔭 I’m currently developing a couple of Flutter mobile apps to launch soon ...
-- ⚙️ Mastering: `.swift` & `.dart` ...
-- 🌱 I’m currently self-learning about Digital Marketing as a  ...
+- ⚙️ Mastering: `.swift` , `.dart` ...
+- 🌱 I’m currently learning about Digital Marketing as a self-interest ...
 - 💬 I'm mostly active within the Software Engineering, iOS development, Flutter development communities ...
 - ⚡ Fun facts: I love to play the guitar and play video games when I need a break ...
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sankalpa1997" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sankalpa1997 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sankalpa1997 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br/>
 
@@ -26,4 +27,5 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/SankalpaS97
 [linkedin]: https://linkedin.com/in/sankalpasenevirathne
+[stackoverflow]: https://stackoverflow.com/users/9523830/sankalpa-senevirathne
 
